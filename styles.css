@@ -1,0 +1,44 @@
+*{
+ background-image: url("https://cdn.asla.org/uploadedImages/CMS/Shop/Bookstore/books.jpg")
+}
+
+h1{
+ text-align: center;
+ background: white;
+ padding: 10px 20px;
+ margin: 20px 450px;
+ border-radius: 20px;
+ font-family: 'B612 Mono', monospace;
+}
+
+img {
+ width: 150px;
+ margin: 20px;
+}
+
+div {
+ display: flex;
+ justify-content: center;
+}
+
+.button{
+ background: white;
+ text-align: center;
+ padding: 10px 20px;
+ font-size: 15px;
+ border-radius: 20px;
+ margin: 20px 50px;
+}
+
+.Answer{
+ text-align: center;
+ background: white;
+ padding: 10px 20px;
+ margin: 20px 450px;
+ border-radius: 20px;
+ font-family: 'B612 Mono', monospace;
+}
+
+bookss{
+ background: white;
+}
